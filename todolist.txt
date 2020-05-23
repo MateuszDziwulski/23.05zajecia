@@ -1,4 +1,5 @@
 this is my task list
 
-TO DO:
+TODO:
 1. Task from 1st branch
+2. Task from 2nd branch
